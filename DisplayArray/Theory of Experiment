@@ -1,0 +1,8 @@
+An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created.
+
+for loop is a repetition control structure that allows you to efficiently write a loop that needs to be executed a specific number of times.
+
+in this program that create count of all list inside a array by using .length-1.
+
+length-1 will return the last element in the array.
+
