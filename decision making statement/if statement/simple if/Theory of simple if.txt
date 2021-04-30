@@ -1,0 +1,24 @@
+(co-of https://github.com/vikasdoddamani/programing-with-java)
+
+
+in simple form of if statement that check the condition whatever it is true or false, if the condition is true then it execute a body of if statement otherwise it skip and continue other statement exinclude last if statement, it also called as boolean expression
+
+
+Syntax: 
+if(boolean expression)
+{
+body statement;
+}
+
+A boolean have two type TRUE OR FALSE
+
+
+Java supports the usual logical conditions from mathematics:
+
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
+Equal to a == b
+Not Equal to: a != b
+

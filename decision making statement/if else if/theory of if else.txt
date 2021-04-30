@@ -1,0 +1,23 @@
+(co-of https://github.com/vikasdoddamani/programing-with-java)
+
+The if-else-if ladder statement executes one condition from multiple statements.
+that is first true condition.
+
+syntax:
+
+if(boolean expression)
+{
+body statement;
+}
+else if(boolean expression)
+{
+body statement;
+}
+else if(boolean expression)
+{
+body statement;
+}
+else
+{
+body statement;
+}

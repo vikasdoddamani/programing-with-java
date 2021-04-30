@@ -1,0 +1,35 @@
+(co-of https://github.com/vikasdoddamani/programing-with-java)
+
+We are used a multiple type in one if statement that check any of two type condition whatever it if true or false, in program i used OR operator (||).
+
+The "or" operator || (two vertical bars) takes two boolean values and evaluates to true if one or the other or both are true.
+
+Suppose we have int variables score and temperature, the code below prints "It's hot out and so am I" if the score is 10 or more and temperature is 100 or more. The && is true only if both of the two booleans it connects are true:
+
+if ( (score >= 10) && (temperature >= 100) )
+ {
+
+  System.out.println("It's hot out, and so am I!");
+
+}
+
+
+
+Syntax:
+
+if( boolean expression logical operator  boolean expression)
+{
+body of statement;
+}
+
+
+Logical operator 
+
+Logical operators are used to check whether an expression is true or false. They are used in decision making.
+
+ Operator			Example			      Meaning
+
+&& (Logical AND)	expression1 && expression2	true only if both 									expression1 and expression2 							are true
+
+|| (Logical OR)		expression1 || expression2	true if either 										expression1 or expression2 							is true
+! (Logical NOT)		!expression			true if expression is false 							and vice versa
