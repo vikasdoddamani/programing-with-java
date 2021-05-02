@@ -1,0 +1,39 @@
+===========================================================
+ // (co-of https://github.com/vikasdoddamani)
+===========================================================
+
+
+A constructor in Java is a special method that is used to initialize parents objects or sub-objects.
+
+
+there are two types of constructor avilable in java
+1. NON-parameterized / Default constructor 
+2. parameterized constructor 
+
+---------------------------------------------------
+a. NON-parameterized / Default constructor:
+		The constructors that have an empty parameter are known as non-parameterized constructors. They are used to initialize the object with default values or certain specific constants depending upon the user
+
+example:
+ public void students()   --> without inti variable
+{
+program statement;
+}
+
+------------------------------------------------------
+
+b.parameterized constructor 
+		A constructor is called Parameterized Constructor when it accepts a specific number of parameters. To initialize data members of a class with distinct values
+
+example
+public void students(String name, int age)    ---> with two arguments variable
+{
+program statement;
+}
+
+
+
+
+===========================================================
+ // (co-of https://github.com/vikasdoddamani)
+===========================================================

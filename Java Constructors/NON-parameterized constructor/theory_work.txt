@@ -1,0 +1,15 @@
+===========================================================
+ // (co-of https://github.com/vikasdoddamani)
+===========================================================
+
+
+Step 1. Create a Main class
+Step 2. Create a class attribute as student
+Step 3. Create a class constructor for the Main class
+Step 4. Set the initial value for the class attribute student
+Step 5. Create an object of class Main (This will call the constructor)
+Step 6. Print or add the value of student data
+
+===========================================================
+ // (co-of https://github.com/vikasdoddamani)
+===========================================================
